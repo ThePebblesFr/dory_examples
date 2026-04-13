@@ -1,0 +1,7 @@
+{
+	"BNRelu_bits": 64,
+	"onnx_file": "../examples/Custom/ES-DNN1/ES-DNN1_DORY_numeric.onnx",
+	"code reserved space": 92000,
+  "input_bits": 8,
+  "input_signed": false
+}
